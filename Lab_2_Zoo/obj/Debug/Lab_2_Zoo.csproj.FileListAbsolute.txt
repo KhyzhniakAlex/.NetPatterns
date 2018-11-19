@@ -1,0 +1,6 @@
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Lab_2_Zoo\bin\Debug\Lab_2_Zoo.exe.config
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Lab_2_Zoo\bin\Debug\Lab_2_Zoo.exe
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Lab_2_Zoo\bin\Debug\Lab_2_Zoo.pdb
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Lab_2_Zoo\obj\Debug\Lab_2_Zoo.exe
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Lab_2_Zoo\obj\Debug\Lab_2_Zoo.pdb
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Lab_2_Zoo\obj\Debug\Lab_2_Zoo.csprojResolveAssemblyReference.cache

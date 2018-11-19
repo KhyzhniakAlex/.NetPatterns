@@ -1,0 +1,9 @@
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\bin\Debug\Zoo.Tests.dll
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\bin\Debug\Zoo.Tests.pdb
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\bin\Debug\Lab_2_Zoo.exe
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\bin\Debug\Lab_2_Zoo.pdb
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\obj\Debug\Zoo.Tests.csprojResolveAssemblyReference.cache
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\obj\Debug\Zoo.Tests.dll
+E:\Рабочий стол\Програмування\C#\ООП-2\Lab_2_Zoo\Zoo.Tests\obj\Debug\Zoo.Tests.pdb
